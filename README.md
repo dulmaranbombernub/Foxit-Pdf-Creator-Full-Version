@@ -239,3 +239,6 @@ This repository serves as the official landing page for Foxit PDF Creator. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Foxit PDF Creator today!**
+
+---
+**Last updated:** 2026-09-08 23:11:03 UTC
