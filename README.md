@@ -241,4 +241,4 @@ This repository serves as the official landing page for Foxit PDF Creator. The s
 **Get the most recent version of Foxit PDF Creator today!**
 
 ---
-**Last updated:** 2026-09-11 19:26:55 UTC
+**Last updated:** 2026-09-11 22:14:24 UTC
